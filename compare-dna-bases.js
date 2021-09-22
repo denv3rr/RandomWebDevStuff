@@ -57,18 +57,3 @@ const pAequorFactory = (specimenNum, dna) => {
     },
   };
 };
-
-//30 Instances Of Survival:
-let survivalPool = [];
-
-/*for (let e = 0; e < 31; e++){
-  if(pAequorFactory(willLikelySurvive) === 'true'){
-    survivalPool.push(this.dna);
-  };
-  return survivalPool;
-};
-*/
-
-console.log('Original Strand: ', pAequorFactory().dna, '\n', 'Mutated Strand: ', pAequorFactory().mutate()), '\n', pAequorFactory().compareDNA();
-
-//console.log(survivalPool);
