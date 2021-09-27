@@ -1,0 +1,43 @@
+* {
+  scroll-behavior: smooth;
+}
+html {
+  background-color: rgb(194, 45, 19);
+}
+table {
+  outline: blue, 10px;
+  border: blue, 10px;
+}
+h1 {
+  color: white;
+  outline: 10px;
+  outline-color: black;
+  background-color: black;
+}
+table,
+th,
+td {
+  background-color: black;
+  border: white 1px solid;
+}
+td {
+  color: white;
+  text-align: center;
+  padding-right: 50px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+th {
+  color: white;
+  text-align: left;
+}
+td,
+.returns {
+  text-align: left;
+}
+.code {
+  font-family: monospace;
+}
+td:hover {
+  background-color: rgb(194, 45, 19);
+}
