@@ -1,0 +1,37 @@
+* {
+  background-color: black;
+  text-align: center;
+  font-family: Verdana;
+}
+footer {
+  text-align: right;
+  color: gray;
+}
+p {
+  font-family: Verdana;
+  font-size: 20px;
+  color: gray;
+}
+#head1 {
+  font-family: Verdana;
+  font-weight: normal;
+  font-size: 50px;
+  color: white;
+  text-align: center;
+}
+#head2 {
+  font-family: Verdana;
+  font-weight: 300;
+  font-size: 42px;
+  color: white;
+}
+#landscape-image {
+  align-items: center;
+}
+.link {
+  color: aquamarine;
+  font-size: 16px;
+}
+.link:hover {
+  color: orangered;
+}
