@@ -1,0 +1,128 @@
+* {
+  font-family: monospace;
+  border-radius: 4%;
+}
+
+header {
+  margin: 50px auto;
+  padding: 50px auto;
+  font-family: monospace;
+}
+
+.blue-violet {
+  background-color: blueviolet;
+  color: white;
+}
+.antique-white {
+  background-color: antiquewhite;
+  color: black;
+}
+.dark-blue {
+  background-color: darkblue;
+  color: white;
+}
+.dark-olive-green {
+  background-color: darkolivegreen;
+  color: white;
+}
+.black {
+  background-color: black;
+  color: white;
+}
+.golden-rod {
+  background-color: goldenrod;
+  color: black;
+}
+
+.container {
+  outline: black 2px solid;
+  padding: 20px;
+  margin: 20px auto;
+  box-shadow: black 5px 5px 5px;
+}
+.container:hover {
+  box-shadow: goldenrod 10px 10px 100px 25px inset;
+}
+.color-panel {
+  box-shadow: black 5px 5px 5px;
+  outline: black 1px solid;
+  display: inline-block;
+  margin: 50px auto;
+  width: 150px;
+  text-align: center;
+  justify-content: space-evenly;
+}
+.color-panel:hover {
+  text-shadow: black 3px 3px 3px;
+  box-shadow: white 10px 10px 80px 50px;
+  cursor: pointer;
+}
+.font-panel {
+  box-shadow: black 5px 5px 5px;
+  outline: black 1px solid;
+  display: inline-block;
+  margin: 20px auto;
+  width: 150px;
+  text-align: center;
+}
+.font-panel:hover {
+  text-shadow: black 3px 3px 10px;
+  box-shadow: white 10px 10px 80px 50px;
+  cursor: pointer;
+}
+.text-panel {
+  margin: 50px auto;
+}
+.text-panel:hover {
+  text-shadow: black 3px 3px 10px 10px;
+}
+.text-container {
+  display: block;
+  margin: 50px auto;
+}
+.text-container:hover {
+  text-shadow: black 3px 3px 10px;
+  cursor: pointer;
+}
+.bold {
+  font-weight: bold;
+}
+.regular {
+  font-weight: auto;
+}
+.italic {
+  font-style: italic;
+}
+.garamond-serif {
+  font-family: Garamond, serif;
+}
+.monospace {
+  font-family: monospace;
+}
+.poppins {
+  font-family: "Poppins";
+}
+h1 {
+  font-weight: 700;
+  font-size: 40px;
+}
+h2 {
+  font-weight: 500;
+  font-size: 25px;
+}
+p {
+  font-weight: 400;
+  font-size: 16px;
+  margin: 50px 20px;
+}
+
+.font-label {
+  text-decoration: black underline;
+  font-weight: bold;
+  font-size: large;
+}
+.fonts-container {
+  display: flex;
+  justify-content: space-evenly;
+  padding: auto auto;
+}
