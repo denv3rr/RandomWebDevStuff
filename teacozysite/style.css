@@ -1,0 +1,145 @@
+html {
+  font-family: Helvetica;
+  font-size: 22px;
+  color: seashell;
+  background-color: black;
+  opacity: 0.9;
+  text-align: center;
+  display: block;
+}
+
+.container {
+  align-items: center;
+  display: flex;
+}
+
+#ourmission,
+#featured,
+#locations {
+  margin-bottom: 100px;
+}
+
+/*Main header and navigation bar: */
+
+header {
+  border-bottom: 1px solid seashell;
+}
+
+.header {
+  height: 69px;
+  display: flex;
+  position: fixed;
+}
+
+#headerlogo {
+  display: inline-flex;
+  margin: 10px;
+  height: 50px;
+  font-size: 0;
+  flex-grow: 1;
+}
+
+#topnav {
+  color: seashell;
+  text-align: right;
+  text-align: right;
+}
+
+a {
+  color: seashell;
+  text-decoration: underline;
+  margin-inline: 15px;
+}
+
+/*Main body styling: */
+
+.body {
+  display: block;
+}
+
+#maincontent {
+  margin-top: 69px;
+}
+
+/*Our Mission: */
+
+#ourmission {
+  height: 700px;
+  flex-grow: 100%;
+  background-image: url(https://content.codecademy.com/courses/freelance-1/unit-4/img-mission-background.jpg);
+}
+
+.blackbox {
+  background-color: black;
+  text-align: center;
+  width: 100%;
+}
+
+/*Featured: */
+
+#featured {
+  width: 1000px;
+  margin: 0 auto;
+  align-items: center;
+  display: block;
+}
+
+#featuredcontainer {
+  justify-content: center;
+  flex-wrap: wrap;
+  display: flex;
+}
+
+.tea-image {
+  height: 200px;
+  width: 300px;
+  margin: 10px;
+}
+
+h2,
+h4 {
+  text-align: center;
+}
+
+/*Locations: */
+
+#locations {
+  flex-grow: 100%;
+  margin: 0 auto;
+  height: 500px;
+  opacity: 1;
+  display: inline-block;
+  background-image: url(https://content.codecademy.com/courses/freelance-1/unit-4/img-locations-background.jpg);
+}
+
+#container-of-location-elements {
+  margin: auto;
+}
+#locations-title {
+  margin-bottom: 15px;
+}
+
+#locationboxcontainer {
+  display: flex;
+  justify-content: center;
+}
+
+.locationbox {
+  background-color: black;
+  width: 300px;
+  margin: 15px 15px 40px 40px;
+}
+
+/*Footer styling: */
+
+#main-footer {
+  display: block;
+  height: 200px;
+}
+
+#copyright {
+  text-align: left;
+  padding-left: 20px;
+}
+
+/*For different screens/devices: */
