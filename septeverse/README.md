@@ -1,4 +1,4 @@
-Welcome to SEPTEVERSE! A cryptocurrency value and news tracker brought to you by Seperet, LLC.
+Welcome to SEPTEVERSE! A cryptocurrency value and news tracker brought to you by Denver @ Seperet, LLC.
 
 Please consider checking out our merchandise at SeperetClothingSupply.com
 as well as my development portfolio at Denver-Clark.com (work-in-progress).
