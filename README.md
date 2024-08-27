@@ -1,1 +1,1 @@
-www.SeperetClothingSupply.com
+seperet.com
