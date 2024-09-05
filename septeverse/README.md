@@ -1,7 +1,6 @@
 Welcome to SEPTEVERSE! A cryptocurrency value and news tracker brought to you by Denver @ Seperet, LLC.
 
-Please consider checking out our merchandise at SeperetClothingSupply.com
-as well as my development portfolio at Denver-Clark.com (work-in-progress).
+Please consider checking out our merchandise at seperet.com
 
 This project was built using npm and yarn. Feel free to use npm start to run the development server/ test version of this app.
 I have not yet published the completed build to a live web server.
