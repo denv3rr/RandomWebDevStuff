@@ -1,9 +1,8 @@
-Welcome to SEPTEVERSE! A cryptocurrency value and news tracker brought to you by Denver @ Seperet, LLC.
-
-Please consider checking out our merchandise at seperet.com
+## Welcome. This is a cryptocurrency value and news tracker.
 
 This project was built using npm and yarn. Feel free to use npm start to run the development server/ test version of this app.
-I have not yet published the completed build to a live web server.
+
+**I have not published a completed build to a live web server.** It was mostly built as a test and proof of concept for a course.
 
 Thank you for checking out my work.
 
@@ -11,9 +10,14 @@ Regards,
 
 Denver
 
-~~~~~~~~~~~~~~~~~~~~~~~~~~~
-~~~~~~~~~~~~~~~~~~~~~~~~~~~
+---
 
+Please consider checking out merchandise at <a href="https://seperet.com">seperet.com</a>.
+
+<br>
+<br>
+<br>
+<br>
 
 
 # Getting Started with Create React App
