@@ -1,3 +1,5 @@
+// This is a test file. Profiles are not real...
+
 const bobsFollowers = ['James', 'Kathy', 'George', 'Nico', 'David', 'Alex'];
 const tinasFollowers = ['James', 'Kathy', 'Paul', 'Alex', 'David', 'Robert'];
 const mutualFollowers = [];
