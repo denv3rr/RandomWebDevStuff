@@ -26,8 +26,8 @@ const App = () => {
         <div className="footer">
           <Typography.Title level={5} style={{ color: 'white', textAlign: 'center' }}><a href='/' className="footer-title">Septeverse</a><br></br>
             A Seperet Development.<br />
-            2022, All Rights Reserved.<br></br>-<br></br>
-            <a href='http://seperetclothingsupply.com'>Seperet Clothing Supply</a>
+            2025, All Rights Reserved.<br></br>-<br></br>
+            <a href='http://seperet.com'>seperet.com</a>
           </Typography.Title>
           <Space>
             <Link to="/">Home</Link>
