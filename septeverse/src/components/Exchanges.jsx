@@ -21,7 +21,7 @@ const Exchanges = () => {
         <Text level={3} className='heading'>
             Info on all of the <em>top crypto exchanges</em> coming soon!<br></br>
             In the mean time, please consider checking out some of our merchandise at:<br></br><br></br>
-            <a href='http://seperetclothingsupply.com'>Seperet Clothing Supply</a><br></br>
+            <a href='http://seperet.com'>seperet.com</a><br></br>
         </Text>
         {/*<Row>
             <Col span={6}>Exchanges</Col>
