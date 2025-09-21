@@ -1,7 +1,5 @@
 [COMMENT]: <TITLE*****************************************>
-## Welcome
-
-**This is a repo for tests, past classes, projects, etc.**
+**For past classes, projects, etc.**
 
 <a href="https://seperet.com">seperet.com</a>
 
